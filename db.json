@@ -1,0 +1,109 @@
+{
+  "home": {
+    "title": "Welcome to My Portfolio",
+    "subtitle": "Crafting web solutions with passion and precision",
+    "heroImage": "https://s3-alpha-sig.figma.com/img/643c/7d87/4a7d291fc3ac8b11502026b6f004117f?Expires=1734307200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cfC4k5gAh5NsmHtq5-I7DR4XVlD16hwFRkY~8YGxxECscCl9oDuhCC1nBi6qQMcuv2dxBW7~ZNjgEZwj4aU0CiYCSaQjt-am4F-bBBtUsfVljJcewVPuCVpiSeQfJAATIz5qBU8y6oeYUfPqX-7NK9O4WNcJSNSwHvZllTGNyNvYKiFeza7dcWI0oBEpekA5IAt~bf76DrHOJf0Fhk8XlLl9Ee4-dRIME1gSpE1cv83fvhHMWXkR8O7nW6LNONA1hQCpvX0GA3se1ph1drelLXKzXuj50OJTAkwbF2fNUG97qW~sBiJNFZRPq~pJSEoFXO~GKitOrQscMjjCXmA4zQ__",
+    "description": "Explore my journey, dive into my projects, and feel free to reach out. This space is where creativity meets technology.",
+    "ctaButton": {
+      "text": "View My Work",
+      "link": "/portfolio"
+    }
+  },
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "E-Commerce Website",
+      "description": "A responsive e-commerce platform with user-friendly design and payment integration.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Stripe API"
+      ],
+      "image": "https://s3-alpha-sig.figma.com/img/cde1/ed3f/8fef957d91df8b936cfec57c896c18cd?Expires=1734307200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=n1qvZeKY6Jp1csAUSh5YdNxgaDUeLVFwuXwgztY-sRb6ND34LjlZgw8HH10cl1QF4YWUyMs8JAhN3QjSPfHC8yELLRi6E~2~cAI3o9Ot8Pc0s04iC8jUTE7p5hUoOlL6EEWvEVeu6jH6H-4XRb6GrPG8E0Ngl22w-NiNpTwdsxN4-gJXdUAXDjU42LSnj8KVK9Af3qJqg4WHCqQk0NqwUxamvnaW13jRwJAq03swvxJomZ7k9~~USTHXkf3KZc9hzuf88Wue3OXoWxhDRDfxiZPpxUw44nbhrRX21wVqk27zJv8tpyhDSOLUllggXqfjH~g6COe-A1NJ6brlsBljNg__",
+      "link": "https://example.com/ecommerce"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio Website",
+      "description": "A personal portfolio website built to showcase projects and skills.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "image": "https://via.placeholder.com/800x600",
+      "link": "https://example.com/portfolio"
+    }
+  ],
+  "setup": {
+    "theme": "dark",
+    "language": "en",
+    "primaryColor": "#1e90ff",
+    "contactEmail": "your-email@example.com",
+    "socialLinks": {
+      "github": "https://github.com/username",
+      "linkedin": "https://linkedin.com/in/username",
+      "twitter": "https://twitter.com/username"
+    }
+  },
+  "aboutme": {
+    "name": "Jane Doe",
+    "bio": "A creative and detail-oriented web developer with a knack for building dynamic and visually appealing web solutions.",
+    "experience": [
+      {
+        "role": "Frontend Developer",
+        "company": "Tech Solutions Inc.",
+        "duration": "Jan 2020 - Present",
+        "responsibilities": [
+          "Developed responsive web designs using React and Tailwind CSS.",
+          "Collaborated with cross-functional teams to ensure seamless project delivery.",
+          "Optimized website performance for improved user experience."
+        ]
+      },
+      {
+        "role": "Web Developer Intern",
+        "company": "Startup Hub",
+        "duration": "May 2019 - Dec 2019",
+        "responsibilities": [
+          "Built landing pages and prototypes for startup clients.",
+          "Integrated APIs to enhance functionality.",
+          "Conducted user testing to ensure design responsiveness."
+        ]
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "CSS",
+      "HTML",
+      "REST APIs",
+      "Git"
+    ],
+    "image": "https://via.placeholder.com/150"
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "role": "Project Manager, TechCorp",
+      "message": "Jane's dedication and attention to detail are exceptional. She always delivers beyond expectations!",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Emily Davis",
+      "role": "CEO, Startup Co.",
+      "message": "Working with Jane was a pleasure. Her ability to solve complex problems is unmatched.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ],
+  "contact": {
+    "email": "your-email@example.com",
+    "phone": "+123-456-7890",
+    "address": "123 Developer Lane, Tech City, TX, 12345",
+    "mapLink": "https://maps.google.com"
+  }
+}
